@@ -116,35 +116,35 @@ document.addEventListener("DOMContentLoaded", function() {
     // Handling overlay for project details
 
     document.getElementById("element1").addEventListener("click", function() {
-        openOverlay("Project1.html");
+        openOverlay("../Project1.html");
     });
 
     document.getElementById("element2").addEventListener("click", function() {
-        openOverlay("Project2.html");
+        openOverlay("../Project2.html");
     });
 
     document.getElementById("element3").addEventListener("click", function() {
-        openOverlay("Project3.html");
+        openOverlay("../Project3.html");
     });
 
     document.getElementById("element4").addEventListener("click", function() {
-        openOverlay("Project4.html");
+        openOverlay("../Project4.html");
     });
 
     document.getElementById("element5").addEventListener("click", function() {
-        openOverlay("Project5.html");
+        openOverlay("../Project5.html");
     });
 
     document.getElementById("element6").addEventListener("click", function() {
-        openOverlay("Project6.html");
+        openOverlay("../Project6.html");
     });
 
     document.getElementById("element7").addEventListener("click", function() {
-        openOverlay("Project7.html");
+        openOverlay("../Project7.html");
     });
 
     document.getElementById("element8").addEventListener("click", function() {
-        openOverlay("Project8.html");
+        openOverlay("../Project8.html");
     });
 
     document.getElementById("overlay").addEventListener("click", function(event) {
