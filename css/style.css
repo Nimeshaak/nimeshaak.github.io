@@ -1000,4 +1000,12 @@ body {
         justify-content: center; 
         align-items: center;
     }
+    
+    .header ul li a:hover{
+        color: #f1fafc;
+    }
+    
+    .header ul li a.active {
+        color: #00BFFF;
+    }
 }
