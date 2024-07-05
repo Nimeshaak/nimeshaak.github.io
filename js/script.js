@@ -116,7 +116,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Handling overlay for project details
 
     document.getElementById("element1").addEventListener("click", function() {
-        openOverlay("project1.html");
+        openOverlay("Project1.html");
     });
 
     document.getElementById("element2").addEventListener("click", function() {
