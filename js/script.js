@@ -147,6 +147,10 @@ document.addEventListener("DOMContentLoaded", function() {
         openOverlay("../Project8.html");
     });
 
+    document.getElementById("element9").addEventListener("click", function() {
+        openOverlay("../Project9.html");
+    });
+
     document.getElementById("overlay").addEventListener("click", function(event) {
         if (event.target === document.getElementById("overlay")) {
             closeOverlay();
